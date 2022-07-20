@@ -6,7 +6,7 @@ namespace VariousTasks.NET5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CountCountriesTask.CountryCount.Test();
         }
     }
 }
